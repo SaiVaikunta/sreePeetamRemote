@@ -6,7 +6,7 @@ public class Kalyanam {
 		// TODO Auto-generated method stub
 		
 		System.out.print("||Ksheera Sagara Madanam||>>>>>>>>");
-		System.out.println("||Antara||");
+		
 	}
 
 }
